@@ -1,7 +1,7 @@
 # Indian-Commercial-Truck-License-Plates-Dataset
 Dataset for Indian Commercial Truck License Plates. To be used for Computer Vision, Machine Learning, Deep Learning, Automatic Number plate or License Plate Recognition (ALPR), License Plate detection, etc.
 
-### You can get dataset access by completing the google form: https://forms.gle/ZHarN9EBb6u1VqVHA. A google drive link with dataset access will be sent to you after completing the form. 
+### You can get dataset access by completing the google form: https://forms.gle/ZHarN9EBb6u1VqVHA. A Google Drive link with dataset access will be sent to you immediately after completing the form. 
 
 We will be updating the bounding box as well as text annotations soon.
 
