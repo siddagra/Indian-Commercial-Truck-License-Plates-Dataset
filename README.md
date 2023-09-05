@@ -3,6 +3,8 @@ Dataset for Indian Commercial Truck License Plates. To be used for Computer Visi
 
 ### You can get dataset access by completing the google form: https://forms.gle/ZHarN9EBb6u1VqVHA. A google drive link with access will be sent to you after completing the form. 
 
+We will be updating the bounding box as well as text annotations soon.
+
 The paper won Best Paper Award at 2022 28th International Conference on Mechatronics and Machine Vision in Practice (M2VIP)
 
 # Abstract
