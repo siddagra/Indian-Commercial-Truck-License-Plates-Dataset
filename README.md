@@ -4,7 +4,7 @@ Official repository for the paper "Indian Commercial Truck License Plate Detecti
 
 arxiv link to original paper: https://arxiv.org/abs/2211.13194
 
-This is a dataset for Indian Commercial Truck License Plates. To be used for Computer Vision, Machine Learning, Deep Learning, Automatic Number plate or License Plate Recognition (ALPR), License Plate detection, etc.
+This is a Image dataset for Indian Commercial Truck License Plates. To be used for Computer Vision, Machine Learning, Deep Learning, Automatic Number plate or License Plate Recognition (ALPR), License Plate detection, etc.
 
 ### You can get dataset access by completing the google form: https://forms.gle/ZHarN9EBb6u1VqVHA. A Google Drive link with dataset access will be sent to you immediately after completing the form. 
 
